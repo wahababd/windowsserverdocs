@@ -40,7 +40,7 @@ Windows Admin Center works with solutions like System Center and Azure managemen
 
 ### Manage from anywhere
 
-Publish your Windows Admin Center gateway server to the public Internet, then you can connect to and manage servers your from anywhere, all in a secure manner.
+Publish your Windows Admin Center gateway server to the public Internet, then you can connect to and manage your servers from anywhere, all in a secure manner.
 
 ### Enhanced security for your management platform
 
